@@ -1,5 +1,13 @@
 [
     {
+      "name":"warning"
+      "colors":["#f5af19","#434343"]
+    }
+    {
+      "name":"health"
+      "colors":["#2980B9","#434343"]
+    }
+    {
         "name": "Omolon",
         "colors": ["#091E3A", "#2F80ED", "#2D9EE0"]
     },
